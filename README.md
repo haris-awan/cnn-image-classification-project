@@ -28,3 +28,9 @@ Classes: bike, car, cat, dog, flower, horse, human
 
 ## Author
 Muhammad Haris
+
+Project completed as part of coursework with teammates:
+- Hifza Haleem
+- Saad Ibrar
+
+My contribution: data preprocessing, feature extraction, CNN model training, and evaluation.
